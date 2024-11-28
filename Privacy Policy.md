@@ -8,6 +8,7 @@ When using the Quitify app, the following data may be collected:
 Personal Information: User's name, quit date, cigarettes smoked per day, number of cigarettes in a pack, pack price, currency, and smoking history duration.
 Technical Information: Device type, operating system, IP address, and user session details.
 Backup Information: When online backup is performed via Firebase, Room database files are securely uploaded. The user uploads data to Firebase Firestore based on selected intervals (3 days, 1 week, 1 month).
+We use Firebase Analytics for app health and development, but this data is not shared with third parties.
 
 **2. Use of Information**
 We use the collected data for the following purposes:
